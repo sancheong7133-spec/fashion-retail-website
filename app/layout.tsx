@@ -31,9 +31,9 @@ const nanumMyeongjo = Nanum_Myeongjo({
 })
 
 export const metadata: Metadata = {
-  title: 'MAISON NORDE — 컨템포러리 패션 하우스',
+  title: 'memos — 가볍게 기록하는 메모 앱',
   description:
-    'MAISON NORDE는 절제된 디자인과 정교한 소재로 일상의 품격을 완성하는 컨템포러리 패션 브랜드입니다.',
+    '생각과 아이디어를 자유롭게 기록하고 정리하는 밝고 편안한 메모 앱입니다.',
   generator: 'v0.app',
   icons: {
     icon: [
@@ -56,7 +56,7 @@ export const metadata: Metadata = {
 
 export const viewport: Viewport = {
   colorScheme: 'light',
-  themeColor: '#f4f2ec',
+  themeColor: '#f7f9fc',
 }
 
 export default function RootLayout({
